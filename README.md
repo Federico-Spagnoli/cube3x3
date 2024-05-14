@@ -13,7 +13,7 @@ This project is an interactive website where you can learn to solve the Rubik's 
 
 ## Getting Started
 
-1. Go to the website: 
+1. Go to the website: https://cube3x3.w3spaces.com/index.html
 2. Follow the step-by-step instructions to learn how to solve the cube.
 3. Use the timer to track your times and see your progress.
 
